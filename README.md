@@ -1,5 +1,5 @@
 # Schedule_UI_Remake
-The ultimite Sheduling system for schools and universities.
+The ultimate Sheduling system for schools and universities.
 
 # Universal UI
 I have tried to make the entire design as universal and responsive as possible. This way, anyone is able to use it without any issues.
