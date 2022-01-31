@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+}
+
+html{
+
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: lightgrey;
+}
+
+header{
+    width: 100%;
+    background-color: rgb(36, 36, 36);
+    padding: 5px;
+    display: inline-block;
+}
+
+.card{
+    position: relative;
+    left: -300px;
+    top: 200px
+}
+
+.leftButton{
+    float: left;
+    margin-right: 10px;
+}
+
+.dropdown{
+    float: right;
+}
