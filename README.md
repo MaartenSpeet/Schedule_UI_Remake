@@ -8,4 +8,4 @@ I have tried to make the entire design as universal and responsive as possible. 
 The entire will be changable. Currently there are 5 different color schemes but I am implementing themes and possibly even extensions!
 
 # Using it
-Want to use the UI, check out my personal webpage: https://maartenspeet.nl/
+Want to use the UI, check out my personal webpage [here](https://maartenspeet.nl/)
